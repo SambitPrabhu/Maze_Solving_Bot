@@ -1,0 +1,8 @@
+prefix=/home/shikhar/techfest_ws/install
+
+Name: package1234
+Description: Description of package1234
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

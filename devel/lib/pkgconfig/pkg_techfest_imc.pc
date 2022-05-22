@@ -1,0 +1,8 @@
+prefix=/home/shikhar/techfest_ws/devel
+
+Name: pkg_techfest_imc
+Description: Description of pkg_techfest_imc
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
